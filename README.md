@@ -1,2 +1,6 @@
 # Metacrafters-Assessments
-This is a repository of my assessment submissions for some Metacrafters courses:
+This is a repository of my assessment submissions for some Metacrafters courses.
+
+Courses undertaken:
+  - 
+  - 
